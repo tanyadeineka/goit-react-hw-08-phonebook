@@ -1,0 +1,13 @@
+.userEmail {
+    margin-top: 0;
+    
+}
+.userMenu {
+    border: 2px solid rgb(85, 26, 139);
+    border-radius: 5px;
+    padding: 5px;
+}
+.link {
+  border-color: rgb(85, 26, 139); 
+  border-radius: 5px; 
+}
