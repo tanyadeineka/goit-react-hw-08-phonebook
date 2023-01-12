@@ -1,0 +1,33 @@
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.contactsList {
+    width: 200px;
+    margin: 0;
+    border: 2px solid rgb(85, 26, 139);
+    border-radius: 10px;
+    padding: 20px;
+    list-style: none;
+}
+.text {
+    font-size: 20px;
+}
+.button {
+    font-size: 15px;
+    width: 100px;
+    margin: auto;
+    background-color: rgb(119, 76, 158);
+    border-color: rgb(119, 76, 158);
+    border-radius: 5px;
+    color: white;
+}
+.button:hover,
+.button:focus {
+    background-color: white;
+    border-color: rgb(119, 76, 158);
+    border-radius: 5px;
+    color: rgb(85, 26, 139);
+}
